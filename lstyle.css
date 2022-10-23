@@ -1,0 +1,78 @@
+body{
+  background-color:#fff;
+  font-family:  Consolas;
+}
+.home a{
+  text-decoration: none;
+  color: #4c0033;
+  background-color: #f3cf7a;
+  font-weight: bold;
+  padding: 3px;
+  border-top-right-radius: 25px;
+  border-bottom: 1px solid #4c0033;
+}
+
+.form_l .btn3{
+  color: #fff;
+  background-color: #f3cf7a;
+  margin-left: 20%;
+  text-align: center;
+  font-size: 13px;
+  width: 59%;
+  border: none;
+  margin-bottom: 20px;
+  margin-top: 10px;
+  padding-top:6px;
+  padding-bottom: 6px;
+  border-radius: 10px;
+  font-weight: bold;
+  outline: none;
+  
+}
+ 
+.form_l a{
+  text-decoration: none;
+  color: #7338e1e4;
+  margin-left: 20%;
+  text-align: left;
+  font-size: 13px;
+  margin-bottom: 10px;
+  text-decoration: underline #f3cf7a;
+}
+.form_l span{
+  margin-top: 10px;
+  padding-top: 20px;
+  margin-left: 20%;
+  text-align: left;
+  color: #fff;
+  font-weight: bold;
+}
+.form_l input{
+  border: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  outline: none;
+  margin-left: 20%;
+  border-bottom: 2px solid #f3cf7a;
+  width: 59%;
+  background-color: transparent;
+  color: #f3cf7a;
+}
+.form_l textarea{
+  background-color: transparent;
+  width: 57%;
+  margin-left: 20%;
+  border: 1px solid #f3cf7a ;
+}
+.form_l{
+  box-shadow: 1px 2px 5px 1px;
+  padding-top: 20%;
+  margin-top: 30%;
+  background-color: #4c0033  ;
+  border: 1px solid #000;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  padding-bottom: 20%;
+}
+
